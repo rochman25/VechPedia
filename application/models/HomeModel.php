@@ -1,5 +1,4 @@
 <?php
-
 class HomeModel extends MY_Model{
 
     // protected $table = "user";
